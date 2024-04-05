@@ -26,6 +26,7 @@ public class MainController {
 	public String main() {
 		System.out.println("///////////////////////");
 		System.out.println("jenkins///////////////////////2");
+		System.out.println("aws jenkins///////////////////////2");
 		return "main"; //main.jsp 
 	}
 
