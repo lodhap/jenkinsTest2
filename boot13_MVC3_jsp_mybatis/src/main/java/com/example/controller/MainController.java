@@ -25,7 +25,7 @@ public class MainController {
 	@RequestMapping(value="/", method = RequestMethod.GET)
 	public String main() {
 		System.out.println("///////////////////////");
-		System.out.println("jenkins///////////////////////");
+		System.out.println("jenkins///////////////////////2");
 		return "main"; //main.jsp 
 	}
 
